@@ -7,7 +7,7 @@ Test Cases: This section outlines a comprehensive set of test cases developed to
 
 Mindmap: Mind maps are generally used to organize information and make decisions. It is commonly used for checklists, Project Management, structured brainstorming, planning, etc.I have used mind maps to better understand the scope of applications and to quickly visualize the testing efforts required. It has been a simple way to share how software testing activities are going to be performed.
 
-<img src="https://github.com/mahin33ferdous/Manual_Testng/blob/main/screenshots/Mindmap.png" style="display: inline-block; margin: 0 auto; width: 100px"/>
+<img src="https://github.com/mahin33ferdous/Manual_Testng/blob/main/screenshots/Mindmap.png" style="display: inline-block; margin: 0 auto; width: 500px"/>
 
 Bug Reports: In this section, you will find detailed descriptions of any identified issues during the testing process. Each bug report includes steps to reproduce, screenshots or logs showcasing the issue, and its severity level. This compilation assists developers in understanding and addressing the reported problems effectively.
 
